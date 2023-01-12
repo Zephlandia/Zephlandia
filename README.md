@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Currently I am building some small applications to help with my learning and growth as a developer.
+
+You can reach me via LinkedIn.
+<a href="https://www.linkedin.com/in/justin-villeneuve-70b61342/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 <!--
 **Zephlandia/Zephlandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
